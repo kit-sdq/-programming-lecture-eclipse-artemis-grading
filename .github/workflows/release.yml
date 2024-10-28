@@ -66,7 +66,7 @@ jobs:
         for f in dists/*.zip; do shasum -a 256 $f > $f.sha256; done
 
     - name: Deploy Update Site
-      uses: JamesIves/github-pages-deploy-action@v4.6.4
+      uses: JamesIves/github-pages-deploy-action@v4.6.8
       with:
         branch: gh-pages 
         folder: releng/edu.kit.kastel.sdq.eclipse.updatesite/target/repository
