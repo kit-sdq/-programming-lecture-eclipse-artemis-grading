@@ -1,4 +1,4 @@
-# Programming Lecture: Eclipse Artemis
+# Eclipse Artemis
 ⚠️ Please use [Intelligrade](https://github.com/kit-sdq/intelligrade). This project is archived. ⚠️
 
 Eclipse-Plugin for grading with the [Artemis Project](https://github.com/ls1intum/Artemis)
